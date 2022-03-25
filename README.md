@@ -6,3 +6,4 @@
 - Chinese word segmentation
 - Word similarity using Word2Vec
 - Chinese sentiment analysis using Tensorflow (data: hotel review)
+- Machine translation between English and Spanish (using seq2seq, attention)
