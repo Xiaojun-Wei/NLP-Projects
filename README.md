@@ -1,6 +1,4 @@
-# NLP-exercises
-
-## Catalog
+# NLP Projects
 
 ### Sentiment Analysis
 
